@@ -41,3 +41,7 @@ console.log(personsLastName)
 console.log(personsAge)
 console.log(personsEmail)
 console.log(personsFullName)
+
+export {
+    
+}
