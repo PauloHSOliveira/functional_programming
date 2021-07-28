@@ -1,5 +1,3 @@
-type OPERATORS = '*' | '+' | '-' | '/'
-
 const numbers = [1,2,3]
 
 const sum = (x:number,y:number) => x + y
